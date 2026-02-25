@@ -1,0 +1,909 @@
+{
+"module_id": "ELI4110_Midterm_Review",
+"module_title": "ELI4110 Course Summary (Modules 1–6)",
+"questions": [
+{
+"id": "MCQ_001",
+"type": "mcq",
+"difficulty": 1,
+"tags": ["PEO", "Governance"],
+"prompt": "What is the principal object of the Association of Professional Engineers of Ontario (PEO) under the Professional Engineers Act?",
+"choices": [
+"To protect the financial interests of engineers",
+"To regulate the practice of engineering to protect the public interest",
+"To advocate for higher salaries for engineers",
+"To provide technical training resources to members"
+],
+"answer": "To regulate the practice of engineering to protect the public interest",
+"explanation": "The PE Act states the main object is to protect the public interest through self-regulation.",
+"source_refs": ["High-yield outline > Professional Governance"],
+"rubric": []
+},
+{
+"id": "MCQ_002",
+"type": "mcq",
+"difficulty": 2,
+"tags": ["Reg 941", "Misconduct", "Ethics"],
+"prompt": "Which section of Regulation 941 defines Professional Misconduct that can lead to enforceable penalties?",
+"choices": [
+"Section 77",
+"Section 72",
+"Section 12",
+"Section 28"
+],
+"answer": "Section 72",
+"explanation": "Section 72 governs Professional Misconduct (enforceable), whereas Section 77 is the Code of Ethics (guidance).",
+"source_refs": ["Must-know statutes / codes / clauses > Regulation 941, Section 72"],
+"rubric": []
+},
+{
+"id": "MCQ_003",
+"type": "mcq",
+"difficulty": 2,
+"tags": ["Tort", "Negligence"],
+"prompt": "Which of the following is NOT one of the three essential elements required to prove a tort of negligence?",
+"choices": [
+"Duty of Care",
+"Breach of Duty",
+"Intent to Harm",
+"Causation (Injury/Damage)"
+],
+"answer": "Intent to Harm",
+"explanation": "Negligence requires Duty of Care, Breach, and Causation. Intent is required for intentional torts, not negligence.",
+"source_refs": ["Rules / tests / elements > Negligence (Tort Action)"],
+"rubric": []
+},
+{
+"id": "MCQ_004",
+"type": "mcq",
+"difficulty": 2,
+"tags": ["Standard of Care", "Tort"],
+"prompt": "What is the legal standard of care expected of a professional engineer in a negligence claim?",
+"choices": [
+"Perfection and error-free work",
+"The best possible practice available globally",
+"Reasonable and prudent practitioner",
+"Subjective good faith effort"
+],
+"answer": "Reasonable and prudent practitioner",
+"explanation": "The standard is not perfection; it is the conduct of a 'reasonable and prudent practitioner' at the time.",
+"source_refs": ["High-yield outline > Tort Law"],
+"rubric": []
+},
+{
+"id": "MCQ_005",
+"type": "mcq",
+"difficulty": 2,
+"tags": ["Tort", "Liability"],
+"prompt": "Under the principle of Vicarious Liability, who is held liable for an employee's negligence performed during their job?",
+"choices": [
+"The employee only",
+"The employer",
+"The client",
+"The professional association"
+],
+"answer": "The employer",
+"explanation": "Vicarious liability holds the employer liable for the negligence of an employee in the performance of their job.",
+"source_refs": ["Key definitions > Vicarious Liability"],
+"rubric": []
+},
+{
+"id": "MCQ_006",
+"type": "mcq",
+"difficulty": 1,
+"tags": ["Contract", "Formation"],
+"prompt": "Which of the following is NOT one of the five essential elements of a contract?",
+"choices": [
+"Offer and Acceptance",
+"Written Documentation",
+"Mutual Intent",
+"Consideration"
+],
+"answer": "Written Documentation",
+"explanation": "The 5 essentials are Offer/Acceptance, Mutual Intent, Consideration, Capacity, and Lawful Purpose. Contracts can be verbal.",
+"source_refs": ["Rules / tests / elements > Contract Formation"],
+"rubric": []
+},
+{
+"id": "MCQ_007",
+"type": "mcq",
+"difficulty": 2,
+"tags": ["Contract", "Interpretation"],
+"prompt": "The rule of 'Contra Proferentem' states that ambiguity in a contract clause is interpreted against whom?",
+"choices": [
+"The party who drafted the clause",
+"The party who signed last",
+"The party with less bargaining power",
+"The party alleging the breach"
+],
+"answer": "The party who drafted the clause",
+"explanation": "Contra Proferentem means ambiguity is interpreted against the drafter.",
+"source_refs": ["Must-know statutes / codes / clauses > Contra Proferentem"],
+"rubric": []
+},
+{
+"id": "MCQ_008",
+"type": "mcq",
+"difficulty": 3,
+"tags": ["Procurement", "Ron Engineering"],
+"prompt": "According to the Ron Engineering decision, when does 'Contract A' arise in the tendering process?",
+"choices": [
+"When the invitation to tender is issued",
+"When a compliant bid is submitted",
+"When the project is awarded",
+"When the construction work begins"
+],
+"answer": "When a compliant bid is submitted",
+"explanation": "Submission of a compliant bid constitutes acceptance of the invitation to tender, creating Contract A.",
+"source_refs": ["Rules / tests / elements > Tendering (Ron Engineering Test)"],
+"rubric": []
+},
+{
+"id": "MCQ_009",
+"type": "mcq",
+"difficulty": 2,
+"tags": ["Contract", "Offer"],
+"prompt": "What is required to make an offer irrevocable?",
+"choices": [
+"A witness signature",
+"Consideration or a seal",
+"A specific expiry date",
+"Written confirmation"
+],
+"answer": "Consideration or a seal",
+"explanation": "An offer is only irrevocable if it includes consideration (value exchange) or is under seal.",
+"source_refs": ["High-yield outline > Procurement (Tendering)"],
+"rubric": []
+},
+{
+"id": "MCQ_010",
+"type": "mcq",
+"difficulty": 1,
+"tags": ["IP", "Copyright"],
+"prompt": "What is the duration of copyright protection in Canada for an original work?",
+"choices": [
+"20 years from creation",
+"50 years from creation",
+"Life of the creator plus 50 years",
+"Life of the creator plus 70 years"
+],
+"answer": "Life of the creator plus 70 years",
+"explanation": "Copyright protection lasts for the life of the author plus 70 years.",
+"source_refs": ["High-yield outline > Intellectual Property"],
+"rubric": []
+},
+{
+"id": "MCQ_011",
+"type": "mcq",
+"difficulty": 1,
+"tags": ["IP", "Patent"],
+"prompt": "What is the term of protection for a patent in Canada?",
+"choices": [
+"10 years, renewable",
+"20 years from filing",
+"Life of inventor plus 70 years",
+"Perpetual as long as secret"
+],
+"answer": "20 years from filing",
+"explanation": "Patents are protected for 20 years from the filing date.",
+"source_refs": ["High-yield outline > Intellectual Property"],
+"rubric": []
+},
+{
+"id": "MCQ_012",
+"type": "mcq",
+"difficulty": 2,
+"tags": ["Ethics", "Conflict of Interest"],
+"prompt": "How must a practitioner disclose a conflict of interest under Regulation 941?",
+"choices": [
+"If asked by the client",
+"Promptly, voluntarily, and completely",
+"In the final report",
+"To the PEO registrar only"
+],
+"answer": "Promptly, voluntarily, and completely",
+"explanation": "Professional misconduct includes failure to disclose conflicts 'promptly, voluntarily and completely'.",
+"source_refs": ["Rules / tests / elements > Professional Misconduct"],
+"rubric": []
+},
+{
+"id": "MCQ_013",
+"type": "mcq",
+"difficulty": 2,
+"tags": ["Licensing", "Industrial Exception"],
+"prompt": "What does the 'Industrial Exception' in the Professional Engineers Act allow?",
+"choices": [
+"Unlicensed individuals can practice if supervised by a P.Eng",
+"Unlicensed individuals can design machinery for use in their employer's own facility",
+"Factories do not need to follow building codes",
+"Engineers in industry do not need to follow the Code of Ethics"
+],
+"answer": "Unlicensed individuals can design machinery for use in their employer's own facility",
+"explanation": "The Industrial Exception allows unlicensed practice for designing machinery used in the employer's production facility.",
+"source_refs": ["Must-know statutes / codes / clauses > Industrial Exception"],
+"rubric": []
+},
+{
+"id": "MCQ_014",
+"type": "mcq",
+"difficulty": 2,
+"tags": ["Contract", "Remedies"],
+"prompt": "What does the term 'Quantum Meruit' mean in contract law?",
+"choices": [
+"Specific performance",
+"As much as is deserved",
+"Punitive damages",
+"Meeting of the minds"
+],
+"answer": "As much as is deserved",
+"explanation": "Quantum Meruit is payment for services where price wasn't fixed, meaning 'as much as is deserved'.",
+"source_refs": ["Key definitions > Quantum Meruit"],
+"rubric": []
+},
+{
+"id": "MCQ_015",
+"type": "mcq",
+"difficulty": 3,
+"tags": ["Contract", "Estoppel"],
+"prompt": "Which legal principle prevents a party from enforcing strict contract rights after allowing a deviation that the other party relied on?",
+"choices": [
+"Force Majeure",
+"Contra Proferentem",
+"Equitable Estoppel",
+"Vicarious Liability"
+],
+"answer": "Equitable Estoppel",
+"explanation": "Equitable Estoppel prevents enforcing strict rights if a party allowed a change and the other relied on it.",
+"source_refs": ["Key definitions > Equitable Estoppel"],
+"rubric": []
+},
+{
+"id": "MCQ_016",
+"type": "mcq",
+"difficulty": 2,
+"tags": ["Ethics", "Whistleblowing"],
+"prompt": "What is the first step in the proper whistleblowing procedure for an engineer (assuming no immediate danger)?",
+"choices": [
+"Contact the media",
+"Contact the PEO",
+"Discuss with immediate supervisor",
+"Resign immediately"
+],
+"answer": "Discuss with immediate supervisor",
+"explanation": "The standard process is: 1. Supervisor -> 2. Senior Mgmt -> 3. Regulator. Media is a last resort.",
+"source_refs": ["Common exam traps > Whistleblowing"],
+"rubric": []
+},
+{
+"id": "MCQ_017",
+"type": "mcq",
+"difficulty": 2,
+"tags": ["Definitions", "Duty"],
+"prompt": "Which relationship typically creates a 'Fiduciary Duty'?",
+"choices": [
+"Contractor and Sub-contractor",
+"Director and Corporation",
+"Retailer and Customer",
+"Engineer and Supplier"
+],
+"answer": "Director and Corporation",
+"explanation": "Fiduciary duty is a heightened trust relationship, typical of Directors/Corporations or Doctor/Patient, not arm's length commerce.",
+"source_refs": ["Key definitions > Fiduciary Duty"],
+"rubric": []
+},
+{
+"id": "MCQ_018",
+"type": "mcq",
+"difficulty": 3,
+"tags": ["Contract", "Breach"],
+"prompt": "What distinguishes Repudiation from a Simple Breach of contract?",
+"choices": [
+"Repudiation involves a minor delay",
+"Repudiation is a refusal to perform an essential requirement",
+"Repudiation only applies to verbal contracts",
+"Repudiation results in liquidated damages"
+],
+"answer": "Repudiation is a refusal to perform an essential requirement",
+"explanation": "Repudiation is the refusal to perform an essential requirement, unlike a simple breach which is a minor failure.",
+"source_refs": ["Key definitions > Repudiation"],
+"rubric": []
+},
+{
+"id": "MCQ_019",
+"type": "mcq",
+"difficulty": 2,
+"tags": ["Contract", "Liability"],
+"prompt": "What is the primary function of a 'Limitation Clause' in a contract?",
+"choices": [
+"To define the scope of work",
+"To set the project deadline",
+"To limit the damages recoverable in case of breach",
+"To outline payment terms"
+],
+"answer": "To limit the damages recoverable in case of breach",
+"explanation": "Limitation clauses limit liability/damages, such as excluding consequential damages.",
+"source_refs": ["Must-know statutes / codes / clauses > Limitation Clauses"],
+"rubric": []
+},
+{
+"id": "MCQ_020",
+"type": "mcq",
+"difficulty": 3,
+"tags": ["Tort", "Case Law"],
+"prompt": "The case of Hedley Byrne v. Heller established liability for what type of loss?",
+"choices": [
+"Physical injury from products",
+"Economic loss due to negligent misrepresentation",
+"Property damage from trespass",
+"Loss of reputation from defamation"
+],
+"answer": "Economic loss due to negligent misrepresentation",
+"explanation": "Hedley Byrne established that negligent misrepresentation can cause pure economic loss.",
+"source_refs": ["Case patterns / examples mentioned > Hedley Byrne v. Heller"],
+"rubric": []
+},
+{
+"id": "TF_001",
+"type": "true_false",
+"difficulty": 1,
+"tags": ["Ethics", "Duty"],
+"prompt": "Under Regulation 941, an engineer's duty to the public welfare is paramount.",
+"choices": ["True", "False"],
+"answer": "True",
+"explanation": "Reg 941 s.77.2.i states the practitioner shall regard duty to public welfare as paramount.",
+"source_refs": ["Must-know statutes / codes / clauses > Regulation 941, Section 77"],
+"rubric": []
+},
+{
+"id": "TF_002",
+"type": "true_false",
+"difficulty": 2,
+"tags": ["Reg 941", "Misconduct", "Ethics"],
+"prompt": "A breach of the Code of Ethics (Section 77) is automatically considered Professional Misconduct (Section 72).",
+"choices": ["True", "False"],
+"answer": "False",
+"explanation": "Breach of s.77 is not misconduct unless it also violates s.72 (specifically s.72(h) links them, but they are distinct sections).",
+"source_refs": ["Must-know statutes / codes / clauses > Regulation 941, Section 77"],
+"rubric": []
+},
+{
+"id": "TF_003",
+"type": "true_false",
+"difficulty": 2,
+"tags": ["Tort", "Liability"],
+"prompt": "Under Vicarious Liability, an employee is relieved of all personal liability for their negligence.",
+"choices": ["True", "False"],
+"answer": "False",
+"explanation": "Vicarious liability makes the employer liable, but the employee remains personally liable as well.",
+"source_refs": ["Key definitions > Vicarious Liability"],
+"rubric": []
+},
+{
+"id": "TF_004",
+"type": "true_false",
+"difficulty": 2,
+"tags": ["Procurement", "Contract A"],
+"prompt": "Contract A is formed when the project owner awards the contract to the successful bidder.",
+"choices": ["True", "False"],
+"answer": "False",
+"explanation": "Contract A is formed upon the submission of a compliant bid. Awarding the job creates Contract B.",
+"source_refs": ["Rules / tests / elements > Tendering (Ron Engineering Test)"],
+"rubric": []
+},
+{
+"id": "TF_005",
+"type": "true_false",
+"difficulty": 2,
+"tags": ["Contract", "Consideration"],
+"prompt": "A gratuitous promise is generally unenforceable because it lacks consideration.",
+"choices": ["True", "False"],
+"answer": "True",
+"explanation": "A gratuitous promise has no value exchange (consideration) and is thus generally unenforceable.",
+"source_refs": ["Key definitions > Gratuitous Promise"],
+"rubric": []
+},
+{
+"id": "TF_006",
+"type": "true_false",
+"difficulty": 1,
+"tags": ["IP", "Copyright"],
+"prompt": "Copyright in Canada must be registered to be legally valid.",
+"choices": ["True", "False"],
+"answer": "False",
+"explanation": "Copyright arises automatically upon creation. Registration is voluntary for proof.",
+"source_refs": ["Common exam traps > Copyright"],
+"rubric": []
+},
+{
+"id": "TF_007",
+"type": "true_false",
+"difficulty": 2,
+"tags": ["IP", "Patent"],
+"prompt": "A patent protects the expression of an idea, while copyright protects the utility of an invention.",
+"choices": ["True", "False"],
+"answer": "False",
+"explanation": "This is reversed. Patents protect utility/invention; Copyright protects expression.",
+"source_refs": ["High-yield outline > Intellectual Property"],
+"rubric": []
+},
+{
+"id": "TF_008",
+"type": "true_false",
+"difficulty": 2,
+"tags": ["Contract", "Discharge"],
+"prompt": "A Force Majeure clause typically covers delays caused by foreseeable labor shortages.",
+"choices": ["True", "False"],
+"answer": "False",
+"explanation": "Force Majeure covers 'Acts of God' or unforeseeable events, not foreseeable issues like normal labor shortages.",
+"source_refs": ["Ultra-short recall list > Force Majeure"],
+"rubric": []
+},
+{
+"id": "TF_009",
+"type": "true_false",
+"difficulty": 1,
+"tags": ["Misconduct", "Sealing"],
+"prompt": "It is professional misconduct for an engineer to seal a document they did not personally prepare or check.",
+"choices": ["True", "False"],
+"answer": "True",
+"explanation": "Reg 941 s.72 explicitly lists sealing documents not prepared/checked by the practitioner as misconduct.",
+"source_refs": ["Rules / tests / elements > Professional Misconduct"],
+"rubric": []
+},
+{
+"id": "TF_010",
+"type": "true_false",
+"difficulty": 2,
+"tags": ["Procurement", "Consideration"],
+"prompt": "Tenders are usually sealed to provide the element of consideration required to make them irrevocable.",
+"choices": ["True", "False"],
+"answer": "True",
+"explanation": "Irrevocable offers require consideration or a seal. Tenders use seals to bind the bidder.",
+"source_refs": ["Common exam traps > Contract A Revocability"],
+"rubric": []
+},
+{
+"id": "SA_001",
+"type": "short_answer",
+"difficulty": 2,
+"tags": ["Procurement", "Ron Engineering"],
+"prompt": "Define 'Contract A' in the context of the tendering process.",
+"choices": [],
+"answer": "Contract A is the 'contract to tender' that arises when a compliant bid is submitted in response to an invitation to tender.",
+"explanation": "It creates the rules of the bidding process, including irrevocability of the bid.",
+"source_refs": ["Rules / tests / elements > Tendering (Ron Engineering Test)"],
+"rubric": [
+"Identify it as contract to tender",
+"Identify trigger: submission of compliant bid"
+]
+},
+{
+"id": "SA_002",
+"type": "short_answer",
+"difficulty": 2,
+"tags": ["Tort", "Negligence"],
+"prompt": "List the three essential elements a plaintiff must prove to succeed in a tort negligence action.",
+"choices": [],
+"answer": "1. Duty of Care, 2. Breach of Duty, 3. Causation (Injury/Damage)",
+"explanation": "These are the three fundamental pillars of a negligence claim.",
+"source_refs": ["Rules / tests / elements > Negligence (Tort Action)"],
+"rubric": [
+"Duty of Care",
+"Breach",
+"Causation"
+]
+},
+{
+"id": "SA_003",
+"type": "short_answer",
+"difficulty": 2,
+"tags": ["Licensing", "Industrial Exception"],
+"prompt": "Briefly explain the 'Industrial Exception' found in the Professional Engineers Act.",
+"choices": [],
+"answer": "It allows unlicensed individuals to perform engineering acts regarding machinery or equipment used in their employer's own production facility.",
+"explanation": "Exempts internal production machinery design from licensing requirements.",
+"source_refs": ["Must-know statutes / codes / clauses > Industrial Exception"],
+"rubric": [
+"Unlicensed practice allowed",
+"Scope: Machinery/Equipment",
+"Context: Employer's own facility"
+]
+},
+{
+"id": "SA_004",
+"type": "short_answer",
+"difficulty": 2,
+"tags": ["Definitions", "Fiduciary"],
+"prompt": "Define 'Fiduciary Duty'.",
+"choices": [],
+"answer": "A heightened duty to care for the interest of another party in priority to one's own interest, based on a relationship of special trust.",
+"explanation": "It goes beyond standard contract duties (e.g. physician/patient).",
+"source_refs": ["Key definitions > Fiduciary Duty"],
+"rubric": [
+"Heightened duty/Trust",
+"Priority to other's interest"
+]
+},
+{
+"id": "SA_005",
+"type": "short_answer",
+"difficulty": 2,
+"tags": ["Reg 941", "Misconduct"],
+"prompt": "List three examples of Professional Misconduct as defined in Regulation 941 Section 72.",
+"choices": [],
+"answer": "Examples: Negligence, Harassment, Failure to disclose conflict of interest, Failure to correct/report dangerous situations, Sealing unchecked work.",
+"explanation": "Any 3 from Reg 941 s.72 list.",
+"source_refs": ["Rules / tests / elements > Professional Misconduct"],
+"rubric": [
+"Any 3 valid examples from s.72"
+]
+},
+{
+"id": "SA_006",
+"type": "short_answer",
+"difficulty": 2,
+"tags": ["Contract", "Interpretation"],
+"prompt": "Explain the contract interpretation rule 'Contra Proferentem'.",
+"choices": [],
+"answer": "Where a contract term is ambiguous, it is interpreted against the party that drafted it.",
+"explanation": "Encourages clear drafting and protects the non-drafting party.",
+"source_refs": ["Must-know statutes / codes / clauses > Contra Proferentem"],
+"rubric": [
+"Ambiguity",
+"Interpreted against drafter"
+]
+},
+{
+"id": "SA_007",
+"type": "short_answer",
+"difficulty": 2,
+"tags": ["Ethics", "Autonomous Vehicles"],
+"prompt": "What is the 'Moral Machine' study?",
+"choices": [],
+"answer": "A study that gathered preferences from people globally on ethical decisions (like the trolley problem) in autonomous vehicle scenarios.",
+"explanation": "Used to understand public intuition on machine ethics.",
+"source_refs": ["Ultra-short recall list > Moral Machine"],
+"rubric": [
+"Study/Survey",
+"Autonomous vehicles/Trolley problem",
+"Global preferences"
+]
+},
+{
+"id": "SA_008",
+"type": "short_answer",
+"difficulty": 1,
+"tags": ["Liability", "Employment"],
+"prompt": "Define 'Vicarious Liability'.",
+"choices": [],
+"answer": "The legal principle where an employer is held liable for the negligence of an employee committed during the performance of their job.",
+"explanation": "Employer pays for employee's work-related negligence.",
+"source_refs": ["Key definitions > Vicarious Liability"],
+"rubric": [
+"Employer liable",
+"Employee negligence",
+"During job performance"
+]
+},
+{
+"id": "SA_009",
+"type": "short_answer",
+"difficulty": 2,
+"tags": ["Contract", "Formation"],
+"prompt": "What specific element is required to make an offer irrevocable in the absence of a seal?",
+"choices": [],
+"answer": "Consideration.",
+"explanation": "An exchange of value (consideration) is needed to bind the promise to keep the offer open.",
+"source_refs": ["High-yield outline > Procurement (Tendering)"],
+"rubric": [
+"Consideration"
+]
+},
+{
+"id": "SA_010",
+"type": "short_answer",
+"difficulty": 2,
+"tags": ["Ethics", "Whistleblowing"],
+"prompt": "List the three sequential steps for whistleblowing (assuming no immediate danger).",
+"choices": [],
+"answer": "1. Discuss with supervisor, 2. Escalate to senior management, 3. Report to regulatory authority (PEO).",
+"explanation": "Internal resolution first, then regulation. Media is not a standard step.",
+"source_refs": ["Common exam traps > Whistleblowing"],
+"rubric": [
+"Supervisor",
+"Senior Management",
+"Regulator/PEO"
+]
+},
+{
+"id": "CLOZE_001",
+"type": "cloze",
+"difficulty": 2,
+"tags": ["Procurement", "Ron Engineering"],
+"prompt": "In the tendering process, submitting a bid creates Contract ___, while the final award of the project creates Contract ___.",
+"choices": ["A", "B"],
+"answer": ["A", "B"],
+"explanation": "Contract A is the bidding contract; Contract B is the project contract.",
+"source_refs": ["Rules / tests / elements > Tendering (Ron Engineering Test)"],
+"rubric": []
+},
+{
+"id": "CLOZE_002",
+"type": "cloze",
+"difficulty": 2,
+"tags": ["Tort", "Evidence"],
+"prompt": "In a civil tort case, the plaintiff must prove their case on the 'balance of ___'.",
+"choices": ["probabilities"],
+"answer": "probabilities",
+"explanation": "The civil standard is 'balance of probabilities' (more likely than not), vs criminal 'beyond reasonable doubt'.",
+"source_refs": ["Rules / tests / elements > Negligence (Tort Action)"],
+"rubric": []
+},
+{
+"id": "CLOZE_003",
+"type": "cloze",
+"difficulty": 2,
+"tags": ["Ethics", "Conflict of Interest"],
+"prompt": "A practitioner must disclose a conflict of interest promptly, ___, and completely.",
+"choices": ["voluntarily"],
+"answer": "voluntarily",
+"explanation": "Reg 941 requires disclosure to be prompt, voluntary, and complete.",
+"source_refs": ["Rules / tests / elements > Professional Misconduct"],
+"rubric": []
+},
+{
+"id": "CLOZE_004",
+"type": "cloze",
+"difficulty": 2,
+"tags": ["IP", "Copyright"],
+"prompt": "Copyright protection lasts for the life of the creator plus ___ years.",
+"choices": ["70"],
+"answer": "70",
+"explanation": "Standard duration in Canada is Life + 70 years.",
+"source_refs": ["High-yield outline > Intellectual Property"],
+"rubric": []
+},
+{
+"id": "CLOZE_005",
+"type": "cloze",
+"difficulty": 2,
+"tags": ["Tort", "Negligence"],
+"prompt": "The three elements of negligence are Duty of Care, Breach of Duty, and ___.",
+"choices": ["Causation"],
+"answer": "Causation",
+"explanation": "Causation links the breach to the injury.",
+"source_refs": ["Rules / tests / elements > Negligence (Tort Action)"],
+"rubric": []
+},
+{
+"id": "CLOZE_006",
+"type": "cloze",
+"difficulty": 3,
+"tags": ["Reg 941", "Misconduct"],
+"prompt": "Regulation 941 Section ___ defines Professional Misconduct.",
+"choices": ["72"],
+"answer": "72",
+"explanation": "Section 72 is the misconduct section.",
+"source_refs": ["Must-know statutes / codes / clauses > Regulation 941, Section 72"],
+"rubric": []
+},
+{
+"id": "CLOZE_007",
+"type": "cloze",
+"difficulty": 3,
+"tags": ["Reg 941", "Ethics"],
+"prompt": "Regulation 941 Section ___ contains the Code of Ethics.",
+"choices": ["77"],
+"answer": "77",
+"explanation": "Section 77 is the Code of Ethics.",
+"source_refs": ["Must-know statutes / codes / clauses > Regulation 941, Section 77"],
+"rubric": []
+},
+{
+"id": "CLOZE_008",
+"type": "cloze",
+"difficulty": 2,
+"tags": ["Procurement", "Ron Engineering"],
+"prompt": "In the Ron Engineering case, the contractor forfeited their ___ because they tried to withdraw their bid.",
+"choices": ["deposit"],
+"answer": "deposit",
+"explanation": "The bid deposit was forfeited because Contract A prevented withdrawal.",
+"source_refs": ["Case patterns / examples mentioned > Ron Engineering"],
+"rubric": []
+},
+{
+"id": "CLOZE_009",
+"type": "cloze",
+"difficulty": 2,
+"tags": ["Tort", "Case Law"],
+"prompt": "The case of Donoghue v. Stevenson established that a manufacturer owes a ___ of care to the consumer.",
+"choices": ["duty"],
+"answer": "duty",
+"explanation": "Established the 'neighbor principle' or duty of care.",
+"source_refs": ["Case patterns / examples mentioned > Donoghue v. Stevenson"],
+"rubric": []
+},
+{
+"id": "CLOZE_010",
+"type": "cloze",
+"difficulty": 2,
+"tags": ["Contract", "Estoppel"],
+"prompt": "Equitable ___ prevents a party from enforcing strict contract rights if they have waived them by conduct.",
+"choices": ["Estoppel"],
+"answer": "Estoppel",
+"explanation": "Equitable Estoppel is the legal principle preventing this enforcement.",
+"source_refs": ["Key definitions > Equitable Estoppel"],
+"rubric": []
+},
+{
+"id": "SCEN_001",
+"type": "scenario",
+"difficulty": 3,
+"tags": ["Ethics", "Conflict of Interest"],
+"prompt": "SCENARIO: An engineer specifies pumps from a company owned by their spouse for a client project. The pumps are the best price and quality, but the engineer does not tell the client about the relationship.\n\n1. What is the issue?\n2. What rule applies?\n3. What is the best action?\n4. Why?",
+"choices": [],
+"answer": "1. Conflict of Interest (Actual/Perceived). 2. Reg 941 s.72(2)(i). 3. Disclose immediately. 4. Lack of disclosure is misconduct; prejudicial to judgment.",
+"explanation": "Even if the technical choice is good, the hidden interest creates a conflict that must be disclosed.",
+"source_refs": ["Mini scenarios > 1. The Silent Supplier"],
+"rubric": [
+"Issue: Conflict of Interest",
+"Rule: Reg 941 s.72 / Failure to disclose",
+"Action: Disclose to client",
+"Reasoning: Prejudicial to judgment / Misconduct"
+]
+},
+{
+"id": "SCEN_002",
+"type": "scenario",
+"difficulty": 3,
+"tags": ["Negligence", "Standard of Care"],
+"prompt": "SCENARIO: An engineer uses a design from a previous project for a new site with significantly different soil conditions without performing a new analysis.\n\n1. What is the issue?\n2. What rule applies?\n3. What is the best action?\n4. Why?",
+"choices": [],
+"answer": "1. Negligence. 2. Tort Law / Reg 941 s.72(2)(a). 3. Conduct proper analysis. 4. Breach of standard of care (prudent practitioner).",
+"explanation": "Using old designs without verification for new conditions is negligence.",
+"source_refs": ["Mini scenarios > 8. The Copy-Paste Design"],
+"rubric": [
+"Issue: Negligence",
+"Rule: Tort / Standard of Care",
+"Action: Perform new analysis",
+"Reasoning: Different conditions require verification"
+]
+},
+{
+"id": "SCEN_003",
+"type": "scenario",
+"difficulty": 3,
+"tags": ["Misconduct", "Sealing"],
+"prompt": "SCENARIO: A P.Eng is busy and asks a junior EIT to finalize and seal a design drawing that the P.Eng has not reviewed.\n\n1. What is the issue?\n2. What rule applies?\n3. What is the best action?\n4. Why?",
+"choices": [],
+"answer": "1. Misuse of seal / Negligence. 2. Reg 941 s.72(2)(e). 3. P.Eng must review work. 4. Sealing unchecked work is misconduct.",
+"explanation": "Engineers must personally prepare or check documents they seal.",
+"source_refs": ["Mini scenarios > 2. The Forgotten Seal"],
+"rubric": [
+"Issue: Sealing unchecked work",
+"Rule: Reg 941 s.72(2)(e)",
+"Action: Review before sealing",
+"Reasoning: Professional responsibility"
+]
+},
+{
+"id": "SCEN_004",
+"type": "scenario",
+"difficulty": 3,
+"tags": ["Procurement", "Contract A"],
+"prompt": "SCENARIO: A contractor submits a sealed tender for $2M but realizes 10 minutes later they forgot $500k in costs. The Owner accepts the bid.\n\n1. What is the issue?\n2. What rule applies?\n3. What is the best action?\n4. Why?",
+"choices": [],
+"answer": "1. Contract A / Mistake. 2. Ron Engineering principle. 3. Perform or forfeit deposit. 4. Tender was irrevocable upon submission.",
+"explanation": "Submission created Contract A; the bidder cannot withdraw without penalty.",
+"source_refs": ["Mini scenarios > 3. The Low Bid Mistake"],
+"rubric": [
+"Issue: Contract A formed",
+"Rule: Ron Engineering",
+"Action: Perform or forfeit bond",
+"Reasoning: Irrevocable offer"
+]
+},
+{
+"id": "SCEN_005",
+"type": "scenario",
+"difficulty": 3,
+"tags": ["Ethics", "Public Safety"],
+"prompt": "SCENARIO: An engineer finds severe rust in a mall roof structure and reports 'urgent repair needed' to the owner. The owner ignores it. The engineer does nothing further.\n\n1. What is the issue?\n2. What rule applies?\n3. What is the best action?\n4. Why?",
+"choices": [],
+"answer": "1. Duty to Report / Public Safety. 2. Reg 941 s.72(2)(c). 3. Report to regulatory authority (Ministry/CBO). 4. Duty to public welfare is paramount.",
+"explanation": "Ignoring a public safety risk is misconduct. The engineer must escalate if the owner refuses to act.",
+"source_refs": ["Mini scenarios > 4. The Leaky Roof"],
+"rubric": [
+"Issue: Public Safety risk",
+"Rule: Duty to report (s.72(2)(c))",
+"Action: Report to authorities",
+"Reasoning: Public welfare paramount"
+]
+},
+{
+"id": "SCEN_006",
+"type": "scenario",
+"difficulty": 3,
+"tags": ["Tort", "Liability"],
+"prompt": "SCENARIO: An engineer offers free advice to a neighbor about a load-bearing wall during a BBQ. The wall collapses based on that advice.\n\n1. What is the issue?\n2. What rule applies?\n3. What is the best action?\n4. Why?",
+"choices": [],
+"answer": "1. Tort Liability. 2. Hedley Byrne (Reliance). 3. Do not give casual advice / Disclaimer. 4. Duty of care exists if reliance is foreseeable.",
+"explanation": "Professionals can be liable for negligent advice even without a contract if reliance was reasonable.",
+"source_refs": ["Mini scenarios > 5. The Helpful Neighbor"],
+"rubric": [
+"Issue: Tort liability/Negligence",
+"Rule: Hedley Byrne / Reliance",
+"Action: Avoid casual advice",
+"Reasoning: Foreseeable reliance creates duty"
+]
+},
+{
+"id": "SCEN_007",
+"type": "scenario",
+"difficulty": 3,
+"tags": ["IP", "Copyright"],
+"prompt": "SCENARIO: An engineer writes code for Employer A. They move to Employer B and reuse snippets of that code.\n\n1. What is the issue?\n2. What rule applies?\n3. What is the best action?\n4. Why?",
+"choices": [],
+"answer": "1. IP Infringement. 2. Copyright Act (Work for hire). 3. Do not use code / Rewrite. 4. Employer A owns the copyright.",
+"explanation": "Work created during employment belongs to the employer.",
+"source_refs": ["Mini scenarios > 6. The Copyrighted Code"],
+"rubric": [
+"Issue: Copyright infringement",
+"Rule: Work for hire / Copyright ownership",
+"Action: Rewrite code",
+"Reasoning: Employer A owns it"
+]
+},
+{
+"id": "SCEN_008",
+"type": "scenario",
+"difficulty": 3,
+"tags": ["Contract", "Breach"],
+"prompt": "SCENARIO: A project is finished one day late. The owner tries to cancel the entire contract and refuses to pay.\n\n1. What is the issue?\n2. What rule applies?\n3. What is the best action?\n4. Why?",
+"choices": [],
+"answer": "1. Simple vs Fundamental Breach. 2. Substantial Compliance. 3. Owner pays price minus damages. 4. Breach was not fundamental.",
+"explanation": "A minor delay is a simple breach, not a fundamental one allowing repudiation.",
+"source_refs": ["Mini scenarios > 7. The 'Strict' Spec"],
+"rubric": [
+"Issue: Simple Breach",
+"Rule: Substantial Compliance",
+"Action: Pay minus damages",
+"Reasoning: Not fundamental breach"
+]
+},
+{
+"id": "SCEN_009",
+"type": "scenario",
+"difficulty": 3,
+"tags": ["Whistleblowing", "Ethics"],
+"prompt": "SCENARIO: An engineer discovers a chemical leak that poses immediate danger to the local water supply. The supervisor says to 'wait and see'.\n\n1. What is the issue?\n2. What rule applies?\n3. What is the best action?\n4. Why?",
+"choices": [],
+"answer": "1. Public Safety / Whistleblowing. 2. Duty to Public Welfare (Paramount). 3. Report immediately to authorities. 4. Danger is imminent.",
+"explanation": "Immediate danger bypasses the standard internal escalation steps.",
+"source_refs": ["Common exam traps > Whistleblowing"],
+"rubric": [
+"Issue: Imminent danger",
+"Rule: Public welfare paramount",
+"Action: Report immediately",
+"Reasoning: Immediate threat overrides hierarchy"
+]
+},
+{
+"id": "SCEN_010",
+"type": "scenario",
+"difficulty": 3,
+"tags": ["Employment", "Ethics"],
+"prompt": "SCENARIO: A non-engineer manager orders a P.Eng to sign off on a safety inspection without visiting the site.\n\n1. What is the issue?\n2. What rule applies?\n3. What is the best action?\n4. Why?",
+"choices": [],
+"answer": "1. Professional Misconduct / Negligence. 2. Reg 941 s.72(2)(e). 3. Refuse to sign. 4. Engineer is the technical authority.",
+"explanation": "An engineer cannot sign documents they haven't verified, regardless of management pressure.",
+"source_refs": ["Rules / tests / elements > Professional Misconduct"],
+"rubric": [
+"Issue: Signing unchecked work",
+"Rule: Reg 941 s.72",
+"Action: Refuse to sign",
+"Reasoning: Technical authority / Misconduct"
+]
+}
+]
+}

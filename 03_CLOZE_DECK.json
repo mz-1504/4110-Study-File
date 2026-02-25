@@ -1,0 +1,502 @@
+[
+{
+"front": "The principal object of the PEO under the Professional Engineers Act is to regulate the practice of engineering to protect the {{c1::public interest}}.",
+"back": "This mandate overrides the interests of the profession or individuals.",
+"tags": ["Governance", "PEO"]
+},
+{
+"front": "Regulation 941 Section {{c1::72}} defines Professional Misconduct, which can lead to enforceable penalties.",
+"back": "Section 77 is the Code of Ethics; Section 72 describes enforceable misconduct.",
+"tags": ["Reg 941", "Misconduct"]
+},
+{
+"front": "Regulation 941 Section {{c1::77}} contains the Code of Ethics, which serves as a guide for professional conduct.",
+"back": "While s.77 is a guide, s.72 allows for discipline.",
+"tags": ["Reg 941", "Ethics"]
+},
+{
+"front": "The three essential elements required to prove negligence in a tort action are: Duty of Care, Breach of Duty, and {{c1::Causation}}.",
+"back": "The breach must cause the injury or damage.",
+"tags": ["Tort", "Negligence"]
+},
+{
+"front": "In a negligence claim, the standard of care is that of a {{c1::reasonable and prudent}} practitioner.",
+"back": "The standard is not perfection, but what a competent peer would do.",
+"tags": ["Tort", "Standard of Care"]
+},
+{
+"front": "Under the principle of {{c1::Vicarious Liability}}, an employer is liable for the negligence of an employee performed during their job.",
+"back": "This aligns with the 'deep pockets' philosophy.",
+"tags": ["Tort", "Liability"]
+},
+{
+"front": "Contract formation requires five elements: Offer & Acceptance, Mutual Intent, Consideration, Capacity, and {{c1::Lawful Purpose}}.",
+"back": "A contract to perform an illegal act is void.",
+"tags": ["Contract", "Formation"]
+},
+{
+"front": "The rule of {{c1::Contra Proferentem}} states that ambiguity in a contract is interpreted against the drafting party.",
+"back": "It protects the party with less power in drafting.",
+"tags": ["Contract", "Interpretation"]
+},
+{
+"front": "According to the Ron Engineering decision, the submission of a compliant bid creates {{c1::Contract A}}.",
+"back": "Contract A governs the bidding process; Contract B is the project contract.",
+"tags": ["Procurement", "Ron Engineering"]
+},
+{
+"front": "An offer is only irrevocable if it includes {{c1::consideration}} or is under seal.",
+"back": "Tenders are usually sealed to ensure they cannot be withdrawn.",
+"tags": ["Contract", "Formation"]
+},
+{
+"front": "Copyright protection in Canada lasts for the life of the creator plus {{c1::70}} years.",
+"back": "This applies to original literary, artistic, or software works.",
+"tags": ["IP", "Copyright"]
+},
+{
+"front": "A patent in Canada offers protection for {{c1::20}} years from the filing date.",
+"back": "Patents protect the utility or function of an invention.",
+"tags": ["IP", "Patent"]
+},
+{
+"front": "A trademark registration is valid for {{c1::10}} years and can be renewed indefinitely.",
+"back": "Protect brands, logos, and slogans.",
+"tags": ["IP", "Trademark"]
+},
+{
+"front": "Under Regulation 941, a conflict of interest must be disclosed promptly, {{c1::voluntarily}}, and completely.",
+"back": "Waiting to be asked does not satisfy the 'voluntary' requirement.",
+"tags": ["Ethics", "Conflict of Interest"]
+},
+{
+"front": "The {{c1::Industrial Exception}} allows unlicensed individuals to design machinery for use in their employer's own production facility.",
+"back": "Found in PE Act s.12(3)a.",
+"tags": ["Licensing", "Exceptions"]
+},
+{
+"front": "{{c1::Quantum Meruit}} is a legal principle meaning 'as much as is deserved', used when a price was not agreed upon.",
+"back": "Ensures payment for work done without a fixed contract price.",
+"tags": ["Contract", "Remedies"]
+},
+{
+"front": "{{c1::Equitable Estoppel}} prevents a party from enforcing strict contract rights if they previously waived them by conduct.",
+"back": "Requires reliance by the other party.",
+"tags": ["Contract", "Estoppel"]
+},
+{
+"front": "Proper whistleblowing procedure: 1. Discuss with supervisor, 2. Escalate to senior management, 3. Report to {{c1::regulatory authority (PEO)}}.",
+"back": "Going to the media is generally a last resort or not advised.",
+"tags": ["Ethics", "Whistleblowing"]
+},
+{
+"front": "A {{c1::Fiduciary Duty}} is a heightened duty of trust where one must act in another's interest, such as a Director for a Corporation.",
+"back": "Not all professional relationships are fiduciary.",
+"tags": ["Definitions", "Duty"]
+},
+{
+"front": "{{c1::Repudiation}} occurs when one party refuses to perform an essential requirement of the contract.",
+"back": "Allows the innocent party to treat the contract as ended.",
+"tags": ["Contract", "Breach"]
+},
+{
+"front": "A {{c1::Limitation Clause}} in a contract restricts the damages recoverable in the event of a breach.",
+"back": "Often excludes consequential or indirect damages.",
+"tags": ["Contract", "Clauses"]
+},
+{
+"front": "The case of Hedley Byrne v. Heller established liability for {{c1::economic loss}} due to negligent misrepresentation.",
+"back": "Expanded tort liability beyond physical damage.",
+"tags": ["Tort", "Case Law"]
+},
+{
+"front": "Under Regulation 941 s.77, a practitioner must regard their duty to {{c1::public welfare}} as paramount.",
+"back": "This overrides duties to the client or employer if safety is at risk.",
+"tags": ["Ethics", "Duty"]
+},
+{
+"front": "The 'Industrial Exception' applies to machinery used in the production of products by the person's {{c1::employer}}.",
+"back": "It does not apply to products sold to the public.",
+"tags": ["Licensing", "Exceptions"]
+},
+{
+"front": "In the Ron Engineering case, the contractor forfeited their {{c1::bid deposit}} for trying to withdraw a bid with an error.",
+"back": "The court ruled Contract A was formed upon submission.",
+"tags": ["Procurement", "Case Law"]
+},
+{
+"front": "The case of Donoghue v. Stevenson established the {{c1::neighbor principle}} (duty of care) for manufacturers.",
+"back": "Snail in the ginger beer case.",
+"tags": ["Tort", "Case Law"]
+},
+{
+"front": "{{c1::Specific Performance}} is a court order requiring a party to fulfill their contractual obligations.",
+"back": "Rarely used; damages are the standard remedy.",
+"tags": ["Contract", "Remedies"]
+},
+{
+"front": "A {{c1::Fundamental}} Breach deprives the innocent party of substantially all the benefit of the contract.",
+"back": "Allows for contract termination (unlike a simple breach).",
+"tags": ["Contract", "Breach"]
+},
+{
+"front": "{{c1::Liquidated Damages}} are pre-estimated damages agreed upon in the contract for specific breaches.",
+"back": "Often used for delay penalties.",
+"tags": ["Contract", "Clauses"]
+},
+{
+"front": "To patent an invention, it must be new, useful, and {{c1::inventive}}.",
+"back": "Inventive means not obvious to a specialist.",
+"tags": ["IP", "Patent"]
+},
+{
+"front": "An {{c1::Industrial Design}} registration protects the shape, pattern, or ornamentation of an object.",
+"back": "Lasts 10 years; distinct from utility patent.",
+"tags": ["IP", "Design"]
+},
+{
+"front": "In a civil case, the burden of proof is on the {{c1::balance of probabilities}}.",
+"back": "More likely than not (>50%).",
+"tags": ["Legal System", "Evidence"]
+},
+{
+"front": "In a criminal case, the burden of proof is {{c1::beyond a reasonable doubt}}.",
+"back": "Much higher threshold than civil law.",
+"tags": ["Legal System", "Evidence"]
+},
+{
+"front": "The {{c1::Plaintiff}} is the party who initiates a lawsuit in civil court.",
+"back": "The other party is the Defendant.",
+"tags": ["Legal System", "Terminology"]
+},
+{
+"front": "The {{c1::Crown}} acts as the prosecutor in criminal cases.",
+"back": "Represents the state/society.",
+"tags": ["Legal System", "Terminology"]
+},
+{
+"front": "Contract discharge by {{c1::Frustration}} occurs when an unforeseeable event makes performance impossible.",
+"back": "Example: The building burns down before renovation starts.",
+"tags": ["Contract", "Discharge"]
+},
+{
+"front": "A {{c1::Gratuitous Promise}} is a promise made without consideration and is generally unenforceable.",
+"back": "Exceptions exist if Equitable Estoppel applies.",
+"tags": ["Contract", "Elements"]
+},
+{
+"front": "{{c1::Consideration}} is defined as something of value exchanged by parties to a contract.",
+"back": "Can be money, goods, services, or a promise.",
+"tags": ["Contract", "Elements"]
+},
+{
+"front": "The {{c1::Discipline Committee}} of the PEO hears cases regarding professional misconduct.",
+"back": "They act like a tribunal/court.",
+"tags": ["PEO", "Governance"]
+},
+{
+"front": "Professional misconduct includes sealing documents not actually {{c1::prepared or checked}} by the practitioner.",
+"back": "Reg 941 s.72(2)(e).",
+"tags": ["Misconduct", "Sealing"]
+},
+{
+"front": "Professional misconduct includes failure to correct or report a situation endangering the {{c1::public safety}}.",
+"back": "Reg 941 s.72(2)(c).",
+"tags": ["Misconduct", "Safety"]
+},
+{
+"front": "Professional misconduct includes failure to make prompt disclosure of an {{c1::interest}} (conflict) to a client.",
+"back": "Reg 941 s.72(2)(i).",
+"tags": ["Misconduct", "Conflict"]
+},
+{
+"front": "Under strict liability in the USA, the defendant has the burden to prove the product was {{c1::safe}}.",
+"back": "The plaintiff does not need to prove negligence.",
+"tags": ["Tort", "Liability"]
+},
+{
+"front": "The {{c1::Learned Intermediary}} rule requires professionals to warn clients of risks in products they specify.",
+"back": "Relevant when using another company's products.",
+"tags": ["Tort", "Duty"]
+},
+{
+"front": "A {{c1::Force Majeure}} clause excuses performance due to 'Acts of God' or events beyond control.",
+"back": "Does not typically cover foreseeable labor shortages.",
+"tags": ["Contract", "Clauses"]
+},
+{
+"front": "Under the {{c1::Parol Evidence}} rule, extrinsic evidence (e.g., verbal agreements) cannot override written contract terms.",
+"back": "If it's not in the written contract, it's usually unenforceable.",
+"tags": ["Contract", "Interpretation"]
+},
+{
+"front": "{{c1::Injunction}} is a court order requiring a party to stop doing something.",
+"back": "An equitable remedy.",
+"tags": ["Remedies", "Legal"]
+},
+{
+"front": "The {{c1::Moral Machine}} study surveyed global preferences for ethical decisions in autonomous vehicles.",
+"back": "Revealed cultural differences in 'trolley problem' scenarios.",
+"tags": ["Ethics", "Emerging Tech"]
+},
+{
+"front": "In a {{c1::Functional}} organizational structure, people are grouped by specialty (e.g., all engineers together).",
+"back": "Contrast with Projectized or Matrix.",
+"tags": ["Workplace", "Structure"]
+},
+{
+"front": "In a {{c1::Projectized}} organizational structure, resources are dedicated to specific projects.",
+"back": "Project Managers have high authority.",
+"tags": ["Workplace", "Structure"]
+},
+{
+"front": "In a {{c1::Matrix}} organizational structure, employees report to both a Functional Manager and a Project Manager.",
+"back": "Can lead to 'two boss' confusion.",
+"tags": ["Workplace", "Structure"]
+},
+{
+"front": "The definition of an 'Adult' regarding contract capacity is 18 years old in {{c1::Ontario}}.",
+"back": "It is 19 in BC.",
+"tags": ["Contract", "Capacity"]
+},
+{
+"front": "Contracts to perform a criminal act are void because they lack {{c1::Lawful Purpose}}.",
+"back": "One of the 5 essentials.",
+"tags": ["Contract", "Elements"]
+},
+{
+"front": "{{c1::Concurrent Tortfeasors}} are multiple defendants who share fault for an injury.",
+"back": "They are often 'jointly and severally' liable.",
+"tags": ["Tort", "Liability"]
+},
+{
+"front": "The Amazon 1-click case established that {{c1::business methods}} can be patented in Canada if they have a technical element.",
+"back": "Opened the door for software/business patents.",
+"tags": ["IP", "Case Law"]
+},
+{
+"front": "In the Clearwater v. Pulverized Pulp case, the failure to meet 95% removal specs was a {{c1::simple}} breach, not fundamental.",
+"back": "The owner could not cancel the contract, only claim damages.",
+"tags": ["Contract", "Case Law"]
+},
+{
+"front": "The Quebec Bridge collapse was attributed to leadership failures and {{c1::organizational deviance}}.",
+"back": "Lack of oversight and checking calculations.",
+"tags": ["Ethics", "Case Law"]
+},
+{
+"front": "The Elliot Lake Mall inquiry resulted in recommendations to strengthen the powers of the {{c1::PEO}}.",
+"back": "Focused on structural integrity inspections.",
+"tags": ["Ethics", "Case Law"]
+},
+{
+"front": "A {{c1::Trade Secret}} protects IP via confidentiality and non-disclosure agreements, without registration.",
+"back": "No time limit, but lost if disclosed.",
+"tags": ["IP", "Types"]
+},
+{
+"front": "Moral rights in copyright allow an author to protect the {{c1::integrity}} of their work.",
+"back": "Moral rights can be waived but not sold.",
+"tags": ["IP", "Copyright"]
+},
+{
+"front": "When an engineer acts as an agent for an owner, they must work within the {{c1::scope}} of the contract.",
+"back": "Unauthorized acts may create liability.",
+"tags": ["Workplace", "Agency"]
+},
+{
+"front": "Professional engineers are responsible for the accuracy of services, including information obtained using {{c1::software}}.",
+"back": "You cannot blame the computer for errors.",
+"tags": ["Workplace", "Software"]
+},
+{
+"front": "Software piracy is considered professional {{c1::misconduct}}.",
+"back": "It violates laws and professional integrity.",
+"tags": ["IP", "Ethics"]
+},
+{
+"front": "A {{c1::Letter of Intent}} is an expression of interest to contract, often not legally binding.",
+"back": "An 'agreement to agree'.",
+"tags": ["Contract", "Formation"]
+},
+{
+"front": "Contract A terms require the owner to treat all bidders {{c1::fairly}}.",
+"back": "Cannot accept non-compliant bids.",
+"tags": ["Procurement", "Duties"]
+},
+{
+"front": "A bid that does not comply with the tender documents is {{c1::non-compliant}} and should be rejected.",
+"back": "Accepting it breaches Contract A with other bidders.",
+"tags": ["Procurement", "Rules"]
+},
+{
+"front": "The limitation period for tort claims in Ontario is generally {{c1::2}} years from discovery.",
+"back": "Statute of Limitations.",
+"tags": ["Legal System", "Limitations"]
+},
+{
+"front": "Defamation consisting of spoken false statements is called {{c1::Slander}}.",
+"back": "Written is Libel.",
+"tags": ["Tort", "Defamation"]
+},
+{
+"front": "Defamation consisting of written false statements is called {{c1::Libel}}.",
+"back": "Spoken is Slander.",
+"tags": ["Tort", "Defamation"]
+},
+{
+"front": "Harassment is defined as a course of {{c1::vexatious}} comment or conduct known to be unwelcome.",
+"back": "Specific wording in Reg 941 s.72.",
+"tags": ["Misconduct", "Definition"]
+},
+{
+"front": "Negligence is an act or omission that constitutes a failure to maintain the {{c1::standards}} of a reasonable practitioner.",
+"back": "Definition in Reg 941 s.72.",
+"tags": ["Misconduct", "Definition"]
+},
+{
+"front": "Failing to present the consequences of a deviation to an employer is misconduct if the deviation affects {{c1::technical adequacy}}.",
+"back": "Reg 941 s.72(2)(f).",
+"tags": ["Misconduct", "Rules"]
+},
+{
+"front": "Tort law is a form of {{c1::Civil}} (or Private) Law.",
+"back": "As opposed to Public or Criminal Law.",
+"tags": ["Legal System", "Classification"]
+},
+{
+"front": "The {{c1::Supreme Court of Canada}} is the final court of appeal for all other courts.",
+"back": "Highest court in the land.",
+"tags": ["Legal System", "Courts"]
+},
+{
+"front": "The {{c1::Constitution}} Act divides powers between Federal and Provincial governments.",
+"back": "Formerly BNA Act.",
+"tags": ["Legal System", "Constitution"]
+},
+{
+"front": "Professional engineering is regulated provincially because it falls under property and {{c1::civil rights}}.",
+"back": "Provincial jurisdiction.",
+"tags": ["Legal System", "Jurisdiction"]
+},
+{
+"front": "To prevent 'bid shopping', Contract A prevents the bidder from {{c1::withdrawing}} their bid.",
+"back": "This protects the integrity of the tender.",
+"tags": ["Procurement", "Rules"]
+},
+{
+"front": "For a mistake in a bid to allow withdrawal, it must be obvious on the {{c1::face}} of the tender.",
+"back": "Ron Engineering: hidden errors don't stop Contract A.",
+"tags": ["Procurement", "Mistake"]
+},
+{
+"front": "A {{c1::Bid Bond}} guarantees that the bidder will enter into Contract B if selected.",
+"back": "Provided by a surety company.",
+"tags": ["Procurement", "Bonds"]
+},
+{
+"front": "A {{c1::Performance Bond}} protects the owner if the contractor fails to complete the work.",
+"back": "Ensures project completion.",
+"tags": ["Procurement", "Bonds"]
+},
+{
+"front": "The concept of {{c1::Strict Liability}} means a manufacturer is liable for defects regardless of negligence.",
+"back": "Common in US Product Liability.",
+"tags": ["Tort", "Liability"]
+},
+{
+"front": "Under the 'Duty to Warn', a product manufacturer must explain potential {{c1::dangers}} of use.",
+"back": "General warnings are insufficient.",
+"tags": ["Tort", "Duty"]
+},
+{
+"front": "Occupier's Liability requires an occupier to make premises reasonably {{c1::safe}} for visitors.",
+"back": "Duty of care to entrants.",
+"tags": ["Tort", "Liability"]
+},
+{
+"front": "{{c1::Trespass}} to land involves entering property without permission.",
+"back": "Intentional tort.",
+"tags": ["Tort", "Property"]
+},
+{
+"front": "{{c1::Nuisance}} involves unreasonable use of land that interferes with another's enjoyment.",
+"back": "E.g., noise, pollution.",
+"tags": ["Tort", "Property"]
+},
+{
+"front": "A Director of a corporation must act honestly and in {{c1::good faith}}.",
+"back": "Part of fiduciary duty.",
+"tags": ["Business", "Duty"]
+},
+{
+"front": "In Canada, fraud is a {{c1::criminal}} offence.",
+"back": "Punishable by imprisonment.",
+"tags": ["Legal System", "Fraud"]
+},
+{
+"front": "Fraudulent misrepresentation allows the deceived party to sue for {{c1::damages}}.",
+"back": "And cancel the contract.",
+"tags": ["Tort", "Misrepresentation"]
+},
+{
+"front": "Innocent misrepresentation allows the deceived party to cancel the contract but usually claim only {{c1::direct costs}}.",
+"back": "Limited damages compared to fraud.",
+"tags": ["Tort", "Misrepresentation"]
+},
+{
+"front": "Economic duress involves unreasonably {{c1::forcing}} others to pay.",
+"back": "Grounds to void a contract.",
+"tags": ["Contract", "Duress"]
+},
+{
+"front": "An engineer has a duty to not accept a commission from a supplier to secure work, as this is {{c1::misconduct}}.",
+"back": "Conflict of interest / Bribery.",
+"tags": ["Ethics", "Misconduct"]
+},
+{
+"front": "If an engineer provides services to others outside their main employment, they must {{c1::disclose}} this to their employer.",
+"back": "Moonlighting rules.",
+"tags": ["Ethics", "Employment"]
+},
+{
+"front": "In advertising, an engineer must not exaggerate claims or {{c1::belittle}} other practitioners.",
+"back": "Professional conduct rule.",
+"tags": ["Ethics", "Advertising"]
+},
+{
+"front": "The {{c1::Iron Triangle}} of project management balances Cost, Schedule, and Quality/Scope.",
+"back": "Trade-offs in project work.",
+"tags": ["Workplace", "Management"]
+},
+{
+"front": "A RACI chart defines Responsible, {{c1::Accountable}}, Support, Consulted, and Informed roles.",
+"back": "Project management tool.",
+"tags": ["Workplace", "Management"]
+},
+{
+"front": "In a RACI chart, the 'Accountable' person is the one who makes the {{c1::decision}}.",
+"back": "The 'buck stops' here.",
+"tags": ["Workplace", "Management"]
+},
+{
+"front": "Advertising in engineering must be factual, clear, and {{c1::dignified}}.",
+"back": "According to Andrews text.",
+"tags": ["Ethics", "Advertising"]
+},
+{
+"front": "Engineers must maintain the {{c1::honour}} and integrity of the profession.",
+"back": "Code of Ethics Item 8.",
+"tags": ["Ethics", "Code"]
+},
+{
+"front": "Engineers must expose unprofessional conduct to the proper {{c1::tribunals}}.",
+"back": "Duty to report peers.",
+"tags": ["Ethics", "Duty"]
+},
+{
+"front": "Engineers must keep their license permanently {{c1::displayed}} in their place of business.",
+"back": "Code of Ethics requirement.",
+"tags": ["Ethics", "Code"]
+}
+]

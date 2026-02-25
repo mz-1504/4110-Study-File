@@ -1,0 +1,101 @@
+{
+  "version": "1.0",
+  "course": "ELI4110",
+  "categories": [
+    {
+      "id": "branches_of_government",
+      "name": "Branches of Government",
+      "description": "Legislative, Executive, and Judicial branches; how laws are made and enforced",
+      "target_count": 6
+    },
+    {
+      "id": "responsibilities_by_law",
+      "name": "Responsibilities Given by Law",
+      "description": "Key responsibilities assigned to the engineering profession by statute",
+      "target_count": 7
+    },
+    {
+      "id": "licensing_requirements",
+      "name": "Licensing Requirements",
+      "description": "Requirements for obtaining and maintaining a P.Eng license in Ontario",
+      "target_count": 6
+    },
+    {
+      "id": "licensing_types",
+      "name": "Types of Licensing",
+      "description": "P.Eng, Limited License, Temporary License, Industrial Exception, Certificate of Authorization",
+      "target_count": 4
+    },
+    {
+      "id": "peo_governance",
+      "name": "PEO Governance",
+      "description": "PEO structure, Council, committees, discipline process, Reg 941 s.72 vs s.77",
+      "target_count": 10
+    },
+    {
+      "id": "ethics_triangle",
+      "name": "Ethics Triangle & Class Discussion",
+      "description": "Ethics triangle (virtue, duty, consequence), moral reasoning frameworks, class insights",
+      "target_count": 4
+    },
+    {
+      "id": "quebec_bridge",
+      "name": "Quebec Bridge Case",
+      "description": "Quebec Bridge collapses (1907/1916), lessons in leadership, oversight, organizational deviance",
+      "target_count": 4
+    },
+    {
+      "id": "ron_engineering",
+      "name": "Ron Engineering Case",
+      "description": "Ron Engineering v. Ontario, Contract A/B framework, tendering law",
+      "target_count": 5
+    },
+    {
+      "id": "general_course",
+      "name": "General Course Material",
+      "description": "Tort law, contract law, IP, workplace ethics, case law, and other course content",
+      "target_count": 4
+    }
+  ],
+  "exam_simulation": {
+    "total_questions": 50,
+    "distribution": {
+      "branches_of_government": 6,
+      "responsibilities_by_law": 7,
+      "licensing_requirements": 6,
+      "licensing_types": 4,
+      "peo_governance": 10,
+      "ethics_triangle": 4,
+      "quebec_bridge": 4,
+      "ron_engineering": 5,
+      "general_course": 4
+    }
+  },
+  "tag_aliases": {
+    "peo": ["PEO", "professional engineers ontario", "association", "self-regulation"],
+    "reg941": ["Reg 941", "regulation 941", "R941", "regulation"],
+    "misconduct": ["Misconduct", "professional misconduct", "s.72", "section 72", "s72"],
+    "ethics": ["Ethics", "code of ethics", "s.77", "section 77", "s77"],
+    "tort": ["Tort", "negligence", "tort law", "civil wrong"],
+    "contract": ["Contract", "contract law", "agreement"],
+    "procurement": ["Procurement", "tendering", "bidding", "tender"],
+    "ron_engineering": ["Ron Engineering", "contract a", "contract b", "ron eng"],
+    "quebec_bridge": ["Quebec Bridge", "quebec", "bridge collapse"],
+    "licensing": ["Licensing", "license", "P.Eng", "limited license", "temporary license"],
+    "ip": ["IP", "intellectual property", "copyright", "patent", "trademark"],
+    "whistleblowing": ["Whistleblowing", "whistle-blowing", "reporting"],
+    "conflict_of_interest": ["Conflict of Interest", "COI", "disclosure"],
+    "branches": ["Branches of Government", "legislative", "executive", "judicial"],
+    "liability": ["Liability", "vicarious liability", "strict liability"],
+    "industrial_exception": ["Industrial Exception", "s.12(3)", "exemption"],
+    "ethics_triangle": ["Ethics Triangle", "virtue ethics", "deontology", "consequentialism", "utilitarianism"],
+    "standard_of_care": ["Standard of Care", "reasonable person", "prudent practitioner"],
+    "fiduciary": ["Fiduciary", "fiduciary duty", "trust"],
+    "breach": ["Breach", "fundamental breach", "simple breach", "repudiation"],
+    "remedies": ["Remedies", "damages", "quantum meruit", "specific performance", "injunction"],
+    "employment": ["Employment", "employer", "employee", "workplace"],
+    "sealing": ["Sealing", "seal", "professional seal", "P.Eng seal"],
+    "discipline": ["Discipline", "discipline committee", "disciplinary", "hearing"],
+    "case_law": ["Case Law", "donoghue", "hedley byrne", "clearwater"]
+  }
+}
